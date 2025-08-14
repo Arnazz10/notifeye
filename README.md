@@ -9,7 +9,7 @@
 
 ## ✨ Features  
 - 🔍 Watch multiple files or folders  
-- 🎯 Optional keyword filter  
+- 🎯 Optional keyword filter in it
 - 🖥️ Native desktop notifications (`notify-send`)  
 - ⚡ Lightweight & fast setup  
 
